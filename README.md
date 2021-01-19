@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=digital-imaging)&theme=gruvbox&column=7&margin-w=15&margin-h=15&no-frame=true](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=digital-imaging&theme=gruvbox&column=7&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 ### Hi there 👋
 
 <!--
